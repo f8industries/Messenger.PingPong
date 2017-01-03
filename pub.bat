@@ -1,0 +1,1 @@
+publisher -DCPSConfigFile rtps.ini

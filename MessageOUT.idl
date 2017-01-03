@@ -1,0 +1,9 @@
+
+module Messenger {
+
+  struct MessageOUT {
+  
+    string payload;
+
+  };
+};
