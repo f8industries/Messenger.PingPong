@@ -1,0 +1,1 @@
+subscriber.exe -DCPSConfigFile rtps.ini
